@@ -1,2 +1,13 @@
 ### Degenerate dimensions
-![degenrate-dimensions](https://user-images.githubusercontent.com/45288730/65815459-d1d84600-e200-11e9-9741-6449270af928.jpeg)
+
+Sample Bill
+
+![01_degenrate-dimensions](https://user-images.githubusercontent.com/45288730/65815544-e10bc380-e201-11e9-9c6c-ee92f50c5429.jpeg)
+
+Physical design
+
+![02_degenrate-dimensions](https://user-images.githubusercontent.com/45288730/65815542-e10bc380-e201-11e9-89e1-5b264e93925d.jpeg)
+
+Notes
+
+![03_degenrate-dimensions](https://user-images.githubusercontent.com/45288730/65815543-e10bc380-e201-11e9-83b0-57c494303c58.jpeg)
