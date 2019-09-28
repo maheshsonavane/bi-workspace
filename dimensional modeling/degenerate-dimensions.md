@@ -10,4 +10,4 @@ Physical design
 
 Notes
 
-![03_degenrate-dimensions](https://user-images.githubusercontent.com/45288730/65815543-e10bc380-e201-11e9-83b0-57c494303c58.jpeg)
+![03_degenrate-dimensions](https://user-images.githubusercontent.com/45288730/65816136-267fbf00-e209-11e9-864d-0fd0a056e52c.jpeg)
